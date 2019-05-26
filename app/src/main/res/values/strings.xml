@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VirtualTG</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="googlekey">AIzaSyAXUoH1bK2Nh6FjZFm_-XriJXrcZCq9KNA</string>
+    <string name="directionkey">AIzaSyALwgLLTHR7tOTSr478UZgsN0nd-gd15Vw</string>
+    <string name="maptype">0</string>
+    <string name="followloc">yes</string>
+    <string name="placeapi">AIzaSyALwgLLTHR7tOTSr478UZgsN0nd-gd15Vw</string>
+</resources>
